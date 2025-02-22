@@ -15,7 +15,7 @@
       {
         "label": "Wolf-Theme",
         "uiTheme": "vs-dark",
-        "path": "./themes/Wolf-Theme-color-theme.json"
+        "path": "./themes/wolf-theme-color-theme.json"
       }
     ]
   }
